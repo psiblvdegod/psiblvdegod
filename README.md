@@ -1,3 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psiblvdegod&layout=compact&theme=dark&card_width=200)](https://github.com/psiblvdegod)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psiblvdegod&layout=compact&theme=dark)](https://github.com/psiblvdegod)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=psiblvdegod&layout=compact&theme=dark&card_width=200)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=psiblvdegod&show_icons=true&theme=radical)](https://github.com/psiblvdegod)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=psiblvdegod&theme=dark&card_width=200&card_height=150&type=png)](https://git.io/streak-stats)
